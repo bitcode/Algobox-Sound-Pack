@@ -1,3 +1,7 @@
 complete j-hooks alerts
 Create GC and CL alerts
 Rename Solo Chart filenames
+Dow Mac-V pivot line
+NQ 2 AO down
+NQ Wave AO Down
+
